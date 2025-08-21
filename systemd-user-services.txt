@@ -1,0 +1,6 @@
+UNIT FILE                    STATE   PRESET
+pipewire-pulse.service       enabled enabled
+wireplumber.service          enabled enabled
+xdg-user-dirs-update.service enabled enabled
+
+3 unit files listed.

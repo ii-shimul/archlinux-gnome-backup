@@ -1,0 +1,10 @@
+brave-bin
+gdm-settings
+glava
+ibus-avro-git
+ocs-url
+ttf-twemoji
+visual-studio-code-bin
+yay-bin
+yay-bin-debug
+zoom
