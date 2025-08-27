@@ -1,2 +1,1 @@
 flathub	https://dl.flathub.org/repo/
-gnome-nightly	https://nightly.gnome.org/repo/
