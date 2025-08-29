@@ -65,6 +65,7 @@ iptables-nft
 iwd
 jdk21-openjdk
 lazygit
+less
 libgda6
 libpulse
 libva-intel-driver
@@ -96,6 +97,7 @@ plymouth
 qt6-multimedia-ffmpeg
 qt6-svg
 qt6-virtualkeyboard
+ripgrep
 rygel
 sassc
 sddm
@@ -111,6 +113,7 @@ tectonic
 thunderbird
 timeshift
 tldr
+tree
 ttf-firacode-nerd
 vulkan-intel
 vulkan-nouveau
