@@ -89,6 +89,7 @@ network-manager-applet
 nodejs
 npm
 ocs-url
+onefetch
 orca
 os-prober
 otf-font-awesome

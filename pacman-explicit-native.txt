@@ -84,6 +84,7 @@ neovim
 network-manager-applet
 nodejs
 npm
+onefetch
 orca
 os-prober
 otf-font-awesome

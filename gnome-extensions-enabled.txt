@@ -6,7 +6,6 @@ top-bar-organizer@julian.gse.jsts.xyz
 just-perfection-desktop@just-perfection
 blur-my-shell@aunetx
 dash-to-dock@micxgx.gmail.com
-logowidget@github.com.howbea
 appindicatorsupport@rgcjonas.gmail.com
 Vitals@CoreCoding.com
 gsconnect@andyholmes.github.io
@@ -24,3 +23,4 @@ native-window-placement@gnome-shell-extensions.gcampax.github.com
 places-menu@gnome-shell-extensions.gcampax.github.com
 status-icons@gnome-shell-extensions.gcampax.github.com
 user-theme@gnome-shell-extensions.gcampax.github.com
+azclock@azclock.gitlab.com
