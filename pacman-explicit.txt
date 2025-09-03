@@ -139,4 +139,3 @@ yay-bin
 yay-bin-debug
 zoom
 zram-generator
-zsh

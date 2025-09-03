@@ -9,6 +9,8 @@ dash-to-dock@micxgx.gmail.com
 appindicatorsupport@rgcjonas.gmail.com
 Vitals@CoreCoding.com
 gsconnect@andyholmes.github.io
+azclock@azclock.gitlab.com
+openbar@neuromorph
 logomenu@aryan_k
 compiz-windows-effect@hermes83.github.com
 burn-my-windows@schneegans.github.com
@@ -34,5 +36,3 @@ user-theme@gnome-shell-extensions.gcampax.github.com
 window-list@gnome-shell-extensions.gcampax.github.com
 windowsNavigator@gnome-shell-extensions.gcampax.github.com
 workspace-indicator@gnome-shell-extensions.gcampax.github.com
-azclock@azclock.gitlab.com
-openbar@neuromorph

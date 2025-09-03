@@ -130,4 +130,3 @@ xorg-server
 xorg-xinit
 yarn
 zram-generator
-zsh

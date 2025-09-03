@@ -9,6 +9,7 @@ dash-to-dock@micxgx.gmail.com
 appindicatorsupport@rgcjonas.gmail.com
 Vitals@CoreCoding.com
 gsconnect@andyholmes.github.io
+azclock@azclock.gitlab.com
 logomenu@aryan_k
 compiz-windows-effect@hermes83.github.com
 burn-my-windows@schneegans.github.com
@@ -23,4 +24,3 @@ native-window-placement@gnome-shell-extensions.gcampax.github.com
 places-menu@gnome-shell-extensions.gcampax.github.com
 status-icons@gnome-shell-extensions.gcampax.github.com
 user-theme@gnome-shell-extensions.gcampax.github.com
-azclock@azclock.gitlab.com
