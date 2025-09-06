@@ -2,7 +2,6 @@ wifiqrcode@glerro.pm.me
 autohide-battery@sitnik.ru
 focus-follows-workspace@christopher.luebbemeier.gmail.com
 CoverflowAltTab@palatis.blogspot.com
-top-bar-organizer@julian.gse.jsts.xyz
 just-perfection-desktop@just-perfection
 blur-my-shell@aunetx
 dash-to-dock@micxgx.gmail.com

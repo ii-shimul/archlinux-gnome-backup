@@ -1,10 +1,5 @@
-ca.desrt.dconf-editor
 com.mattjakeman.ExtensionManager
-com.obsproject.Studio
 io.github.flattool.Warehouse
 it.mijorus.gearlever
-net.agalwood.Motrix
-org.bleachbit.BleachBit
-org.deluge_torrent.deluge
 org.gnome.Extensions
 org.videolan.VLC

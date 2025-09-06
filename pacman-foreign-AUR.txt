@@ -3,9 +3,9 @@ gdm-settings
 glava
 ibus-avro-git
 ocs-url
-pscircle-debug
 ttf-twemoji
 visual-studio-code-bin
+xdman_gtk
 yay-bin
 yay-bin-debug
 zoom
