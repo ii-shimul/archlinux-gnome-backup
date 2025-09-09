@@ -80,6 +80,7 @@ loupe
 luarocks
 mariadb
 maven
+mysql-workbench
 nano
 nautilus
 nautilus-image-converter
