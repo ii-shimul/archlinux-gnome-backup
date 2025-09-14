@@ -10,6 +10,7 @@ btop
 cava
 dconf-editor
 deluge-gtk
+docker-desktop
 dysk
 efibootmgr
 epiphany
@@ -127,6 +128,8 @@ visual-studio-code-bin
 vulkan-intel
 vulkan-nouveau
 vulkan-radeon
+warp-terminal
+wget
 wireless_tools
 xclip
 xdg-desktop-portal-gnome

@@ -1,10 +1,12 @@
 brave-bin
+docker-desktop
 gdm-settings
 glava
 ibus-avro-git
 ocs-url
 ttf-twemoji
 visual-studio-code-bin
+warp-terminal
 xdman_gtk
 yay-bin
 yay-bin-debug

@@ -121,6 +121,7 @@ ttf-firacode-nerd
 vulkan-intel
 vulkan-nouveau
 vulkan-radeon
+wget
 wireless_tools
 xclip
 xdg-desktop-portal-gnome

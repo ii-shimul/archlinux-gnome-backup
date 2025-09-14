@@ -14,7 +14,6 @@ compiz-windows-effect@hermes83.github.com
 burn-my-windows@schneegans.github.com
 pano@elhan.io
 hibernate-status@dromi
-openmeteoweather@deezhizyu.github.io
 color-picker@tuberry
 runcat@kolesnikov.se
 search-light@icedman.github.com
