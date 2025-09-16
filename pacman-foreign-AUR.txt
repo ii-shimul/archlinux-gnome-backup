@@ -4,6 +4,8 @@ gdm-settings
 glava
 ibus-avro-git
 ocs-url
+preload
+preload-debug
 ttf-twemoji
 visual-studio-code-bin
 warp-terminal

@@ -118,6 +118,7 @@ timeshift
 tldr
 tree
 ttf-firacode-nerd
+ufw
 vulkan-intel
 vulkan-nouveau
 vulkan-radeon

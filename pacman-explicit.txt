@@ -103,6 +103,7 @@ pipewire-alsa
 pipewire-jack
 pipewire-pulse
 plymouth
+preload
 qpdf
 qt6-multimedia-ffmpeg
 qt6-svg
@@ -124,6 +125,7 @@ timeshift
 tldr
 tree
 ttf-firacode-nerd
+ufw
 visual-studio-code-bin
 vulkan-intel
 vulkan-nouveau
