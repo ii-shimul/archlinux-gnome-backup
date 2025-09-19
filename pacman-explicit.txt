@@ -91,7 +91,6 @@ netbeans
 network-manager-applet
 nodejs
 npm
-ocs-url
 onefetch
 orca
 os-prober
@@ -116,11 +115,9 @@ sl
 smartmontools
 snapshot
 sof-firmware
-steam
 sushi
 tecla
 tectonic
-thunderbird
 timeshift
 tldr
 tree

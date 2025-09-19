@@ -109,11 +109,9 @@ sl
 smartmontools
 snapshot
 sof-firmware
-steam
 sushi
 tecla
 tectonic
-thunderbird
 timeshift
 tldr
 tree
