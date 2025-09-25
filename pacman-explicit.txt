@@ -73,15 +73,14 @@ lazygit
 less
 libgda6
 libpulse
+libreoffice-fresh
 libva-intel-driver
 linux
 linux-firmware
 linux-headers
 loupe
 luarocks
-mariadb
 maven
-mysql-workbench
 nano
 nautilus
 nautilus-image-converter
@@ -118,6 +117,7 @@ sof-firmware
 sushi
 tecla
 tectonic
+telegram-desktop
 timeshift
 tldr
 tree
