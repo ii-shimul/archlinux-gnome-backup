@@ -11,6 +11,7 @@ cava
 dconf-editor
 deluge-gtk
 docker-desktop
+downgrade
 dysk
 efibootmgr
 epiphany
@@ -120,14 +121,15 @@ tectonic
 telegram-desktop
 timeshift
 tldr
+tmux
 tree
+tree-sitter-cli
 ttf-firacode-nerd
 ufw
 visual-studio-code-bin
 vulkan-intel
 vulkan-nouveau
 vulkan-radeon
-warp-terminal
 wget
 wireless_tools
 xclip

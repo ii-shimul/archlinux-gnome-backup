@@ -114,7 +114,9 @@ tectonic
 telegram-desktop
 timeshift
 tldr
+tmux
 tree
+tree-sitter-cli
 ttf-firacode-nerd
 ufw
 vulkan-intel

@@ -22,6 +22,7 @@ runcat@kolesnikov.se
 search-light@icedman.github.com
 Vitals@CoreCoding.com
 wifiqrcode@glerro.pm.me
+top-bar-organizer@julian.gse.jsts.xyz
 apps-menu@gnome-shell-extensions.gcampax.github.com
 auto-move-windows@gnome-shell-extensions.gcampax.github.com
 drive-menu@gnome-shell-extensions.gcampax.github.com

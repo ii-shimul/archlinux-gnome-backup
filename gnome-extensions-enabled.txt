@@ -18,7 +18,10 @@ runcat@kolesnikov.se
 search-light@icedman.github.com
 Vitals@CoreCoding.com
 wifiqrcode@glerro.pm.me
+top-bar-organizer@julian.gse.jsts.xyz
 native-window-placement@gnome-shell-extensions.gcampax.github.com
 places-menu@gnome-shell-extensions.gcampax.github.com
+screenshot-window-sizer@gnome-shell-extensions.gcampax.github.com
 status-icons@gnome-shell-extensions.gcampax.github.com
 user-theme@gnome-shell-extensions.gcampax.github.com
+workspace-indicator@gnome-shell-extensions.gcampax.github.com

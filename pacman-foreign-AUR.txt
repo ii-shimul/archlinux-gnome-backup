@@ -1,12 +1,12 @@
 brave-bin
 docker-desktop
+downgrade
 gdm-settings
 glava
 ibus-avro-git
 preload
 ttf-twemoji
 visual-studio-code-bin
-warp-terminal
 xdman_gtk
 yay-bin
 yay-bin-debug
