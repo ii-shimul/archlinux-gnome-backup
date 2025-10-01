@@ -87,7 +87,6 @@ nautilus
 nautilus-image-converter
 ncdu
 neovim
-netbeans
 network-manager-applet
 nodejs
 npm
