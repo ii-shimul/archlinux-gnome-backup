@@ -1,3 +1,5 @@
+adwaita-qt5-git
+adwaita-qt6-git
 brave-bin
 docker-desktop
 downgrade
@@ -9,5 +11,4 @@ ttf-twemoji
 visual-studio-code-bin
 xdman_gtk
 yay-bin
-yay-bin-debug
 zoom

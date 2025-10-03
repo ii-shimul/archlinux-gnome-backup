@@ -1,6 +1,7 @@
+adwaita-qt5-git
+adwaita-qt6-git
 android-tools
 archlinux-xdg-menu
-baobab
 base
 base-devel
 bash-completion
@@ -16,6 +17,7 @@ dysk
 efibootmgr
 epiphany
 evince
+extension-manager
 eza
 fastfetch
 fd
@@ -33,10 +35,7 @@ gnome-browser-connector
 gnome-calculator
 gnome-calendar
 gnome-characters
-gnome-clocks
 gnome-color-manager
-gnome-console
-gnome-disk-utility
 gnome-font-viewer
 gnome-logs
 gnome-menus
@@ -103,16 +102,15 @@ pipewire-pulse
 plymouth
 preload
 qpdf
+qt5ct
 qt6-multimedia-ffmpeg
 qt6-svg
 qt6-virtualkeyboard
 ripgrep
 rygel
 sassc
-simple-scan
 sl
 smartmontools
-snapshot
 sof-firmware
 sushi
 tecla
@@ -126,6 +124,8 @@ tree-sitter-cli
 ttf-firacode-nerd
 ufw
 visual-studio-code-bin
+vlc
+vlc-plugins-all
 vulkan-intel
 vulkan-nouveau
 vulkan-radeon
@@ -142,6 +142,5 @@ xorg-server
 xorg-xinit
 yarn
 yay-bin
-yay-bin-debug
 zoom
 zram-generator

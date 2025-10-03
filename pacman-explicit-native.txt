@@ -1,6 +1,5 @@
 android-tools
 archlinux-xdg-menu
-baobab
 base
 base-devel
 bash-completion
@@ -13,6 +12,7 @@ dysk
 efibootmgr
 epiphany
 evince
+extension-manager
 eza
 fastfetch
 fd
@@ -28,10 +28,7 @@ gnome-browser-connector
 gnome-calculator
 gnome-calendar
 gnome-characters
-gnome-clocks
 gnome-color-manager
-gnome-console
-gnome-disk-utility
 gnome-font-viewer
 gnome-logs
 gnome-menus
@@ -96,16 +93,15 @@ pipewire-jack
 pipewire-pulse
 plymouth
 qpdf
+qt5ct
 qt6-multimedia-ffmpeg
 qt6-svg
 qt6-virtualkeyboard
 ripgrep
 rygel
 sassc
-simple-scan
 sl
 smartmontools
-snapshot
 sof-firmware
 sushi
 tecla
@@ -118,6 +114,8 @@ tree
 tree-sitter-cli
 ttf-firacode-nerd
 ufw
+vlc
+vlc-plugins-all
 vulkan-intel
 vulkan-nouveau
 vulkan-radeon

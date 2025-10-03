@@ -1,5 +1,0 @@
-com.mattjakeman.ExtensionManager
-io.github.flattool.Warehouse
-it.mijorus.gearlever
-org.gnome.Extensions
-org.videolan.VLC
