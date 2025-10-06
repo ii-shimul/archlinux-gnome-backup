@@ -1,6 +1,7 @@
 appindicatorsupport@rgcjonas.gmail.com
 autohide-battery@sitnik.ru
 azclock@azclock.gitlab.com
+workspace-name-osd@bax.tools
 blur-my-shell@aunetx
 burn-my-windows@schneegans.github.com
 color-picker@tuberry
@@ -16,7 +17,6 @@ mediacontrols@cliffniff.github.com
 pano@elhan.io
 runcat@kolesnikov.se
 Vitals@CoreCoding.com
-wifiqrcode@glerro.pm.me
 top-bar-organizer@julian.gse.jsts.xyz
 Hide_Activities@shay.shayel.org
 quick-settings-tweaks@qwreey

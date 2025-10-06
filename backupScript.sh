@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 set -Eeuo pipefail
-dest=${1:-"/run/media/bax/Varieties/Linux Settings Backup/"}
+dest=${1:-"/run/media/bax/Varieties/archlinux-gnome-backup/"}
 mkdir -p "$dest"
 
 echo "[*] Writing to: $dest"
@@ -8,16 +8,16 @@ echo "[*] Writing to: $dest"
 # 1) dconf (all + focused subsets)
 if command -v dconf >/dev/null 2>&1; then
   echo "[*] Dumping dconf…"
-  dconf dump / > "$dest/dconf-all.ini"
-  dconf dump /org/gnome/ > "$dest/dconf-gnome.ini" || true
-  dconf dump /org/gnome/shell/extensions/ > "$dest/dconf-extensions.ini" || true
+  dconf dump / >"$dest/dconf-all.ini"
+  dconf dump /org/gnome/ >"$dest/dconf-gnome.ini" || true
+  dconf dump /org/gnome/shell/extensions/ >"$dest/dconf-extensions.ini" || true
 fi
 
 # 2) GNOME extensions (lists + user-installed contents)
 if command -v gnome-extensions >/dev/null 2>&1; then
   echo "[*] Listing extensions…"
-  gnome-extensions list > "$dest/gnome-extensions-all.txt" || true
-  gnome-extensions list --enabled > "$dest/gnome-extensions-enabled.txt" || true
+  gnome-extensions list >"$dest/gnome-extensions-all.txt" || true
+  gnome-extensions list --enabled >"$dest/gnome-extensions-enabled.txt" || true
 fi
 echo "[*] Archiving user extensions…"
 tar -C "$HOME/.local/share" -czf "$dest/gnome-user-extensions.tgz" gnome-shell/extensions 2>/dev/null || true
@@ -40,23 +40,23 @@ tar -C "$HOME" -czf "$dest/desktop-config.tgz" \
 # 5) Pacman package lists
 if command -v pacman >/dev/null 2>&1; then
   echo "[*] Capturing pacman package lists…"
-  pacman -Qqe  > "$dest/pacman-explicit.txt"
-  pacman -Qqen > "$dest/pacman-explicit-native.txt" || true
-  pacman -Qqm  > "$dest/pacman-foreign-AUR.txt" || true
+  pacman -Qqe >"$dest/pacman-explicit.txt"
+  pacman -Qqen >"$dest/pacman-explicit-native.txt" || true
+  pacman -Qqm >"$dest/pacman-foreign-AUR.txt" || true
 fi
 
 # 6) Flatpak (if used)
 if command -v flatpak >/dev/null 2>&1; then
   echo "[*] Capturing Flatpak info…"
-  flatpak remotes --columns=name,url > "$dest/flatpak-remotes.txt"
-  flatpak list --app --columns=application > "$dest/flatpak-apps.txt"
+  flatpak remotes --columns=name,url >"$dest/flatpak-remotes.txt"
+  flatpak list --app --columns=application >"$dest/flatpak-apps.txt"
 fi
 
 # 7) User systemd (enabled services/timers)
 if command -v systemctl >/dev/null 2>&1; then
   echo "[*] Recording enabled user services/timers…"
-  systemctl --user list-unit-files --type=service --state=enabled > "$dest/systemd-user-services.txt" || true
-  systemctl --user list-unit-files --type=timer   --state=enabled > "$dest/systemd-user-timers.txt"   || true
+  systemctl --user list-unit-files --type=service --state=enabled >"$dest/systemd-user-services.txt" || true
+  systemctl --user list-unit-files --type=timer --state=enabled >"$dest/systemd-user-timers.txt" || true
 fi
 
 # 8) Optional system configs + secrets (sudo)
@@ -78,7 +78,7 @@ tar -C "$HOME" -czf "$dest/shell-dotfiles.tgz" \
   .bashrc .bash_profile .zshrc .profile .xprofile .pam_environment 2>/dev/null || true
 
 # 10) Restore cheat‑sheet
-cat > "$dest/README-RESTORE.txt" <<'EOF'
+cat >"$dest/README-RESTORE.txt" <<'EOF'
 == RESTORE ORDER (summary) ==
 1) Fresh Arch base, network online.
 2) (Optional) Restore pacman config and mirrorlist:
@@ -122,4 +122,3 @@ EOF
 
 echo "[✓] Backup complete: $dest"
 echo "Consider encrypting the folder/tarballs (e.g., with age or gpg) before syncing off‑machine."
-

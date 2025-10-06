@@ -1,5 +1,7 @@
+7zip
 adwaita-qt5-git
 adwaita-qt6-git
+android-studio
 android-tools
 archlinux-xdg-menu
 base
@@ -9,6 +11,9 @@ bleachbit
 brave-bin
 btop
 cava
+chromium
+clang
+cmake
 dconf-editor
 deluge-gtk
 docker-desktop
@@ -81,12 +86,15 @@ linux-headers
 loupe
 luarocks
 maven
+mesa-utils
+mutter-devkit
 nano
 nautilus
 nautilus-image-converter
 ncdu
 neovim
 network-manager-applet
+ninja
 nodejs
 npm
 onefetch
@@ -124,6 +132,7 @@ tree-sitter-cli
 ttf-firacode-nerd
 ufw
 visual-studio-code-bin
+vivaldi
 vlc
 vlc-plugins-all
 vulkan-intel

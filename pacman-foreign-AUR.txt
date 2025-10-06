@@ -1,5 +1,6 @@
 adwaita-qt5-git
 adwaita-qt6-git
+android-studio
 brave-bin
 docker-desktop
 downgrade

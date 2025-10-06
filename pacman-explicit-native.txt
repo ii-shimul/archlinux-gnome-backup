@@ -1,3 +1,4 @@
+7zip
 android-tools
 archlinux-xdg-menu
 base
@@ -6,6 +7,9 @@ bash-completion
 bleachbit
 btop
 cava
+chromium
+clang
+cmake
 dconf-editor
 deluge-gtk
 dysk
@@ -73,12 +77,15 @@ linux-headers
 loupe
 luarocks
 maven
+mesa-utils
+mutter-devkit
 nano
 nautilus
 nautilus-image-converter
 ncdu
 neovim
 network-manager-applet
+ninja
 nodejs
 npm
 onefetch
@@ -114,6 +121,7 @@ tree
 tree-sitter-cli
 ttf-firacode-nerd
 ufw
+vivaldi
 vlc
 vlc-plugins-all
 vulkan-intel
