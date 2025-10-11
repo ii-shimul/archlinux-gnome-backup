@@ -109,6 +109,7 @@ rygel
 sassc
 sl
 smartmontools
+snapshot
 sof-firmware
 sushi
 tecla

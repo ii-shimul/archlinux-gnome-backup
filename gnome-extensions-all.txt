@@ -24,7 +24,6 @@ Vitals@CoreCoding.com
 wifiqrcode@glerro.pm.me
 top-bar-organizer@julian.gse.jsts.xyz
 Hide_Activities@shay.shayel.org
-practice@bax.arch
 example@example.com
 quick-settings-tweaks@qwreey
 apps-menu@gnome-shell-extensions.gcampax.github.com

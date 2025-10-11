@@ -13,7 +13,6 @@ gsconnect@andyholmes.github.io
 hibernate-status@dromi
 just-perfection-desktop@just-perfection
 logomenu@aryan_k
-mediacontrols@cliffniff.github.com
 pano@elhan.io
 runcat@kolesnikov.se
 Vitals@CoreCoding.com
